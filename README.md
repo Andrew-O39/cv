@@ -1,9 +1,16 @@
 # Andrew Owusu – Backend Engineer
 
-This repository contains my latest CV.
+This repository contains my CV in both English and German.
 
-- Specialization: Python Backend Engineering
-- Focus: Secure, scalable, data-driven systems
+## CV Versions
+
+- English: Andrew_Owusu_Backend_Engineer_CV(Eng).pdf
+- German: Andrew_Owusu_Backend_Engineer_CV(Deutsch).pdf
+
+## Focus
+Backend Engineering | Python | FastAPI | Scalable Systems | Clean Architecture
+
+Location: Germany
 
 Contact:  
 LinkedIn: [[link](https://www.linkedin.com/in/andrew-owusu-backend/)]  
